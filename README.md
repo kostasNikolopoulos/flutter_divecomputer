@@ -6,12 +6,6 @@ device over USB/serial (and, longer term, Bluetooth Classic/BLE) using
 dive logs — depth/temperature profiles, gas mixes, tank pressures, samples,
 and events.
 
-This plugin was built to power dive-log syncing in [Petousis Dive
-Log](../nautilus_diving_log) (the "nautilus" app): plug in or pair a dive
-computer, pull its stored dives, and hand them to the app to store and sync.
-It started as a fork of [DiveNote/dive_computer](https://divenote.app) and is
-now maintained standalone for that purpose.
-
 ## Purpose
 
 Most dive computers store logged dives on-device and only expose them through
